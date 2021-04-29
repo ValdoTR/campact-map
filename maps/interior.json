@@ -37,7 +37,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/outdoors.json#from-interior"
+                 "value":"\/@\/campact\/teamklausur\/draussen#from-interior"
                 }],
          "type":"tilelayer",
          "visible":true,
