@@ -83,11 +83,6 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jitsiConfig",
-                 "type":"string",
-                 "value":"{ \"startWithAudioMuted\": true }"
-                }, 
-                {
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"jitsiRosaLuxemburgRoom"
@@ -110,11 +105,6 @@
          "name":"jitsiBaumhaus",
          "opacity":1,
          "properties":[
-                {
-                 "name":"jitsiConfig",
-                 "type":"string",
-                 "value":"{ \"startWithAudioMuted\": true }"
-                }, 
                 {
                  "name":"jitsiRoom",
                  "type":"string",
@@ -139,11 +129,6 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jitsiConfig",
-                 "type":"string",
-                 "value":"{ \"startWithAudioMuted\": true }"
-                }, 
-                {
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"jitsiPassierscheinA38Room"
@@ -166,11 +151,6 @@
          "name":"jitsiCampuno",
          "opacity":1,
          "properties":[
-                {
-                 "name":"jitsiConfig",
-                 "type":"string",
-                 "value":"{ \"startWithAudioMuted\": true }"
-                }, 
                 {
                  "name":"jitsiRoom",
                  "type":"string",
@@ -195,11 +175,6 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jitsiConfig",
-                 "type":"string",
-                 "value":"{ \"startWithAudioMuted\": true }"
-                }, 
-                {
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"jitsiAntifaAppealRoom"
@@ -222,11 +197,6 @@
          "name":"jitsiSpielwieseUndRevolution",
          "opacity":1,
          "properties":[
-                {
-                 "name":"jitsiConfig",
-                 "type":"string",
-                 "value":"{ \"startWithAudioMuted\": true,  }"
-                }, 
                 {
                  "name":"jitsiRoom",
                  "type":"string",
@@ -251,11 +221,6 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jitsiConfig",
-                 "type":"string",
-                 "value":"{ \"startWithAudioMuted\": true }"
-                }, 
-                {
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"jitsiCampingplatzRoom"
@@ -278,11 +243,6 @@
          "name":"jitsiFUNraisingLounge",
          "opacity":1,
          "properties":[
-                {
-                 "name":"jitsiConfig",
-                 "type":"string",
-                 "value":"{ \"startWithAudioMuted\": true }"
-                }, 
                 {
                  "name":"jitsiRoom",
                  "type":"string",
@@ -307,11 +267,6 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jitsiConfig",
-                 "type":"string",
-                 "value":"{ \"startWithAudioMuted\": true }"
-                }, 
-                {
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"jitsiAbrahamWaldRaumRoom"
@@ -334,11 +289,6 @@
          "name":"jitsiSchreibstube",
          "opacity":1,
          "properties":[
-                {
-                 "name":"jitsiConfig",
-                 "type":"string",
-                 "value":"{ \"startWithAudioMuted\": true }"
-                }, 
                 {
                  "name":"jitsiRoom",
                  "type":"string",
@@ -363,11 +313,6 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jitsiConfig",
-                 "type":"string",
-                 "value":"{ \"startWithAudioMuted\": true }"
-                }, 
-                {
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"jitsiTaxiRoom"
@@ -390,11 +335,6 @@
          "name":"jitsiThaddausTentakel",
          "opacity":1,
          "properties":[
-                {
-                 "name":"jitsiConfig",
-                 "type":"string",
-                 "value":"{ \"startWithAudioMuted\": true }"
-                }, 
                 {
                  "name":"jitsiRoom",
                  "type":"string",
