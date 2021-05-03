@@ -91,7 +91,12 @@
                  "name":"jitsiTrigger",
                  "type":"string",
                  "value":"onaction"
-                }],
+                },
+           {
+             "name":"jitsiRoomAdminTag",
+             "type":"string",
+             "value":"admin"
+           }],
          "type":"tilelayer",
          "visible":true,
          "width":64,
@@ -114,7 +119,12 @@
                  "name":"jitsiTrigger",
                  "type":"string",
                  "value":"onaction"
-                }],
+                },
+           {
+             "name":"jitsiRoomAdminTag",
+             "type":"string",
+             "value":"admin"
+           }],
          "type":"tilelayer",
          "visible":true,
          "width":64,
@@ -137,7 +147,12 @@
                  "name":"jitsiTrigger",
                  "type":"string",
                  "value":"onaction"
-                }],
+                },
+           {
+             "name":"jitsiRoomAdminTag",
+             "type":"string",
+             "value":"admin"
+           }],
          "type":"tilelayer",
          "visible":true,
          "width":64,
@@ -160,7 +175,12 @@
                  "name":"jitsiTrigger",
                  "type":"string",
                  "value":"onaction"
-                }],
+                },
+           {
+             "name":"jitsiRoomAdminTag",
+             "type":"string",
+             "value":"admin"
+           }],
          "type":"tilelayer",
          "visible":true,
          "width":64,
@@ -183,7 +203,12 @@
                  "name":"jitsiTrigger",
                  "type":"string",
                  "value":"onaction"
-                }],
+                },
+           {
+             "name":"jitsiRoomAdminTag",
+             "type":"string",
+             "value":"admin"
+           }],
          "type":"tilelayer",
          "visible":true,
          "width":64,
@@ -206,7 +231,12 @@
                  "name":"jitsiTrigger",
                  "type":"string",
                  "value":"onaction"
-                }],
+                },
+           {
+             "name":"jitsiRoomAdminTag",
+             "type":"string",
+             "value":"admin"
+           }],
          "type":"tilelayer",
          "visible":true,
          "width":64,
@@ -229,7 +259,12 @@
                  "name":"jitsiTrigger",
                  "type":"string",
                  "value":"onaction"
-                }],
+                },
+           {
+             "name":"jitsiRoomAdminTag",
+             "type":"string",
+             "value":"admin"
+           }],
          "type":"tilelayer",
          "visible":true,
          "width":64,
@@ -252,7 +287,12 @@
                  "name":"jitsiTrigger",
                  "type":"string",
                  "value":"onaction"
-                }],
+                },
+           {
+             "name":"jitsiRoomAdminTag",
+             "type":"string",
+             "value":"admin"
+           }],
          "type":"tilelayer",
          "visible":true,
          "width":64,
@@ -275,7 +315,12 @@
                  "name":"jitsiTrigger",
                  "type":"string",
                  "value":"onaction"
-                }],
+                },
+           {
+             "name":"jitsiRoomAdminTag",
+             "type":"string",
+             "value":"admin"
+           }],
          "type":"tilelayer",
          "visible":true,
          "width":64,
@@ -298,7 +343,12 @@
                  "name":"jitsiTrigger",
                  "type":"string",
                  "value":"onaction"
-                }],
+                },
+           {
+             "name":"jitsiRoomAdminTag",
+             "type":"string",
+             "value":"admin"
+           }],
          "type":"tilelayer",
          "visible":true,
          "width":64,
@@ -321,7 +371,12 @@
                  "name":"jitsiTrigger",
                  "type":"string",
                  "value":"onaction"
-                }],
+                },
+           {
+             "name":"jitsiRoomAdminTag",
+             "type":"string",
+             "value":"admin"
+           }],
          "type":"tilelayer",
          "visible":true,
          "width":64,
@@ -344,7 +399,12 @@
                  "name":"jitsiTrigger",
                  "type":"string",
                  "value":"onaction"
-                }],
+                },
+           {
+             "name":"jitsiRoomAdminTag",
+             "type":"string",
+             "value":"admin"
+           }],
          "type":"tilelayer",
          "visible":true,
          "width":64,
@@ -367,7 +427,12 @@
                  "name":"jitsiTrigger",
                  "type":"string",
                  "value":"onaction"
-                }],
+                },
+           {
+             "name":"jitsiRoomAdminTag",
+             "type":"string",
+             "value":"admin"
+           }],
          "type":"tilelayer",
          "visible":true,
          "width":64,
@@ -390,7 +455,12 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"Sanddune"
-                }],
+                },
+           {
+             "name":"jitsiRoomAdminTag",
+             "type":"string",
+             "value":"admin"
+           }],
          "type":"tilelayer",
          "visible":true,
          "width":64,
